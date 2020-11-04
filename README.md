@@ -1,5 +1,5 @@
 <h1 align="center">
-  Cryptocurrency App
+  Crypto App
 </h1>
 
 <p align="center">
@@ -35,7 +35,7 @@
 ## Previews do projeto
 
 <p align="center">
- 
+ <img href="https://ik.imagekit.io/8qmbx6p1dq/CriptoApp/cryptoapp_hUefP04_Z.gif" alt="gif image projetct" />
 </p>
 
 ---
