@@ -8,7 +8,7 @@
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 <p>Desenvolvido com a ideia da aula de consumo de Api de criptomoedas da Digital Innovation One. 
-  <a href="/" target="_blank" rel="noopener noreferrer nofollow"></a>
+  <a href="https://www.linkedin.com/in/barbaracasac/" target="_blank" rel="noopener noreferrer nofollow">Bárbara Casac</a>
 </p>
 
 ## Índice
