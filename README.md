@@ -20,7 +20,7 @@
 ---
 
 ## Descrição
-<p>Utilizei a ideia para realizar o consumo desa api da Coinmarketcap, mas diferente do que estava na aula, fiz o consumo com ReactJS.</p>
+<p>Utilizei a ideia para realizar o consumo dessa api da Coinmarketcap, mas diferente do que estava na aula, fiz o consumo com ReactJS.</p>
 
 ---
 
